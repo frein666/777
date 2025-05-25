@@ -1,0 +1,10 @@
+Usage Policy for "Discord Clone Script"
+
+1.  Acceptable Use: You agree not to use the Software for any purpose that is illegal, harmful, or that infringes on the rights of others. This includes, but is not limited to, spamming, harassment, distribution of malware, or hosting of offensive content.
+2.  User-Generated Content: You are solely responsible for any content generated or displayed through your instance of the Software. We reserve the right to remove any content that violates this policy.
+3.  Security: You are responsible for maintaining the security of your installation, including keeping the Software updated and using strong passwords.
+4.  Data Privacy: You must comply with all applicable data privacy laws (e.g., GDPR, CCPA) regarding the collection and use of user data through the Software. You must provide a clear privacy policy to your users.
+5.  Modifications: You are permitted to modify the Software for your own use. However, support may be limited or voided for heavily modified installations.
+6.  Compliance: Failure to comply with this Usage Policy may result in termination of your license and access to support or updates.
+
+This is a sample policy. Replace with your actual policy.

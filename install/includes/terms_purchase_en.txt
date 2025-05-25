@@ -1,0 +1,11 @@
+Purchase Agreement for "Discord Clone Script"
+
+1.  License Grant: Upon purchase, you are granted a non-exclusive, non-transferable license to use the "Discord Clone Script" (the Software) on a single domain or project.
+2.  Restrictions: You may not redistribute, resell, or sublicense the Software. You may not use the Software for any illegal or unauthorized purpose.
+3.  No Warranty: The Software is provided "as is" without any warranty of any kind, either expressed or implied. The entire risk as to the quality and performance of the software is with you.
+4.  Limitation of Liability: In no event shall the script author be liable for any damages (including, without limitation, lost profits, business interruption, or lost information) rising out of 'users' use of or inability to use the Software.
+5.  Updates and Support: Basic support may be provided for a limited time as specified at the point of purchase. Access to updates may require an active subscription or further payment.
+6.  Refund Policy: Due to the nature of digital goods, refunds are generally not provided unless the Software is proven to be significantly not as described.
+7.  Acceptance: By downloading, installing, or using the Software, you signify your agreement to these terms. If you do not agree to these terms, do not use the Software.
+
+This is a sample agreement. Replace with your actual terms.
