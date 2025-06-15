@@ -1,0 +1,35 @@
+{
+    "name": "php-messenger/php-messenger",
+    "description": "PHP Messenger application with WebRTC calling and WebSocket signaling.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Your Name / Company",
+            "email": "your_email@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4 || >=8.0",
+        "cboden/ratchet": "^0.4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "scripts": {
+        "start-websocket": [
+            "@php -v",
+            "php src/WebSocket/websocket_server.php"
+        ],
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
